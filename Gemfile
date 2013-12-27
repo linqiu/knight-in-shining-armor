@@ -1,4 +1,4 @@
 source 'https://rubygems.org'
 
-# Specify your gem's dependencies in knight-in-shining-armor.gemspec
+# Specify your gem's dependencies in lancelot.gemspec
 gemspec

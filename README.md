@@ -1,7 +1,5 @@
-knight-in-shining-armor
+# Lancelot
 =======================
-
-# Knight::In::Shining::Armor
 
 This gem allows you to clearly write a BRE block and send rescue to your favorite logger!
 
@@ -9,7 +7,7 @@ This gem allows you to clearly write a BRE block and send rescue to your favorit
 
 Add this line to your application's Gemfile:
 
-    gem 'knight-in-shining-armor'
+    gem 'lancelot'
 
 And then execute:
 
@@ -17,7 +15,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install knight-in-shining-armor
+    $ gem install lancelot
 
 ## Usage
 

@@ -1,15 +1,15 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'knight/in/shining/armor/version'
+require 'lancelot/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "knight-in-shining-armor"
-  spec.version       = Knight::In::Shining::Armor::VERSION
+  spec.name          = "lancelot"
+  spec.version       = Lancelot::VERSION
   spec.authors       = ["Lin Qiu"]
   spec.email         = ["lin.qiu@chronicle.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{ This gem allows you to clearly write a BRE block and send rescue to your favorite logger! }
+  spec.summary       = %q{ Just include your favorite logger in the initializer }
   spec.homepage      = ""
   spec.license       = "MIT"
 
